@@ -314,7 +314,7 @@ answers = [
   "Being on fire.",
   "Being rich.",
   "Bill Nye the Science Guy.",
-  "Bingeing and purging.",
+  "Binging and purging.",
   "Bitches.",
   "Black people.",
   "Bling.",
