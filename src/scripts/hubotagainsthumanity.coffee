@@ -167,7 +167,7 @@ questions = [
   "Why do I hurt all over?",
   "In the seventh circle of Hell, sinners must endure _____ for all eternity.",
   "A successful job interview begins with a firm handshake and ends with _____.",
-  "Lovin’ you is easy ’cause you’re .",
+  "Lovin’ you is easy ’cause you’re _____.",
   "The blind date was going horribly until we discovered our shared interest in _____.",
   "_____. Awesome in theory, kind of a mess in practice.",
   "I’m not like the rest of you. I’m too rich and busy for _____.",
