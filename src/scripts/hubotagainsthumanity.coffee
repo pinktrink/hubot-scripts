@@ -891,7 +891,8 @@ answers = [
   "Girls that always be textin’.",
   "Blowing some dudes in an alley.",
   "Drinking ten 5-hour ENERGYs to get fifty continuous hours of energy.",
-  "Sneezing, farting, and coming at the same time."
+  "Sneezing, farting, and coming at the same time.",
+  "Jordan Husted is a bitch."
 ]
 
 module.exports = (robot) ->
